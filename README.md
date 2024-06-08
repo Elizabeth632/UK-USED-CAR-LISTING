@@ -5,3 +5,20 @@
 ## Introductions
 This project involves analyzing scraped data from used car listings, with up to 100,000 entries. The dataset includes information on price, transmission, mileage, fuel type, road tax and model
 
+
+-----------
+## Skills Implemented
+* Data Cleaning and Transformation
+
+* DAX and Calculated Measures
+
+* Data Visualization
+
+## Tool Used
+Power Bi
+
+-------------
+## Problem Statement
+What are the key factors that influence the selling price of cars, and how do they relate to each other?
+
+How can car manufacturers, sellers, and buyers use this information to make informed decisions about pricing and purchasing?
