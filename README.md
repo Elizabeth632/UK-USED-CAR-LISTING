@@ -1,4 +1,7 @@
 # UK-USED-CAR-LISTING
+![](welcome_page.png)
+
 
 ## Introductions
-![](welcome_page.PNG)
+
+
