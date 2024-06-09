@@ -1,5 +1,5 @@
 # UK-USED-CAR-LISTING
-![](WELCOME_PAGE.PNG)
+![](welcome_page.png)
 
 --------
 ## Introductions
@@ -37,5 +37,20 @@ How can car manufacturers, sellers, and buyers use this information to make info
 
 * Created a new column for the “Age of the car” by converting the year into days and then into years
   ![](data_cleaning.png)
+
+  -----------------
+  ## Data Modelling
+*  I Created a column for "Price per Model" using the formula: Car listing(Price) / Car listing(Mileage).
+  
+* I Created new measures using DAX:
+  
+ Average price: AVERAGE(Price)
+
+Average tax: AVERAGE(Tax)
+
+Average Mileage: AVERAGE(Mileage)
+
+----------
+## Findings
 .
   
