@@ -89,7 +89,22 @@ Over the years, both price and mileage showed an increasing trend. However, ther
 
 ### Correlation between Price and Mileage
 ![welcome_page](https://github.com/Elizabeth632/UK-USED-CAR-LISTING/blob/main/price_per_mileage.png)
-The scatter plot indicates a positive correlation between mileage and price, showing that as mileage increases, the price tends to increase.
+The scatter plot indicates a positive correlation between mileage and price, showing that as mileage decreases, the price tends to increase.
+
+-----------------
+![welcome_page](https://github.com/Elizabeth632/UK-USED-CAR-LISTING/blob/main/recommendations.png)
+
+From our analysis, the primary factors influencing the selling price of used cars in the UK are transmission type, car brand and model, mileage, age,  and fuel type.
+
+Analysis report contains three pages
+
+![](welcome_page.png) ![](car_analysis.png) ![](recommendations.png)
+### Power Bi View
+https://app.powerbi.com/groups/me/reports/489b83a4-3b99-446b-a4d2-851ef136b9de/ReportSection?experience=power-bi
+
+
+By understanding and leveraging these insights, all stakeholders in the used car market can make informed, strategic decisions that enhance value, optimize pricing, and improve purchasing outcomes.
+
 
 
 
