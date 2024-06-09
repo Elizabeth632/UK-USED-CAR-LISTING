@@ -1,5 +1,5 @@
 # UK-USED-CAR-LISTING
-![](welcome_page.png)
+![](WELCOME_PAGE.PNG)
 
 --------
 ## Introductions
@@ -33,6 +33,9 @@ How can car manufacturers, sellers, and buyers use this information to make info
   
 * I Removed entries with errors, specifically those related to the "unclean CClass" and "unclean Focus," resulting in 11 distinct car manufacturers
 
-*Removed duplicate records, leaving 106,259 unique entries.
+* Removed duplicate records, leaving 106,259 unique entries.
 
-* Created a new column for the “Age of the car” by converting the year into days and then into years.
+* Created a new column for the “Age of the car” by converting the year into days and then into years
+  ![](data_cleaning.png)
+.
+  
