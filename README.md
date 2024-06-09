@@ -93,7 +93,7 @@ The scatter plot indicates a positive correlation between mileage and price, sho
 
 From our analysis, the primary factors influencing the selling price of used cars in the UK are transmission type, car brand and model, mileage, age,  and fuel type.
 
-###Analysis report contains three pages
+### Analysis report contains three pages
 Welcome Page                   |       Analysis                                |              Recommendations
 :------------------------------|-----------------------------------------------|------------------------------
 ![](welcome_page.png)          |              ![](car_analysis.png)            |      ![](recommendations.png)
