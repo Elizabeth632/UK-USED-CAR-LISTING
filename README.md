@@ -98,8 +98,7 @@ Welcome Page                   |                                      Analysis
 :------------------------------|-----------------------------------------------:         
 ![](welcome_page.png)          |                       ![](car_analysis.png)             
 
-### You can interact with the report here
-https://app.powerbi.com/groups/me/reports/489b83a4-3b99-446b-a4d2-851ef136b9de/ReportSection?experience=power-bi
+### You can interact with the report [here](https://app.powerbi.com/groups/me/reports/489b83a4-3b99-446b-a4d2-851ef136b9de/ReportSection?experience=power-bi)
 
 ![](recommendations.png)
 
