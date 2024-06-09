@@ -52,5 +52,16 @@ Average Mileage: AVERAGE(Mileage)
 
 ----------
 ## Findings
-.
+### Average Price by Car
+![average_price_by_model](https://github.com/Elizabeth632/UK-USED-CAR-LISTING/blob/main/average_price_by_car_manufacturer.png)
+Mercedes has the highest average price at $24.6k followed by C class at €23.7k
+
+Mainstream brands like Vauxhall,Ford,Toyota have lower average price, around €10k-€14k
+
+### Average price by Model
+![data_cleaning](https://github.com/Elizabeth632/UK-USED-CAR-LISTING/blob/main/average_price_by_model.png)
+
+
+
+
   
