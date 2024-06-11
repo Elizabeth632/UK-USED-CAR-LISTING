@@ -53,6 +53,13 @@ Average Mileage: AVERAGE(Mileage)
 
 ----------
 ## Findings
+
+#### There are 11 brands and 195 models in the dataset
+
+#### The Average price is €16.83k
+
+#### The Average Mileage is 23,220 miles
+
 ### Average Price by Car
 ![average_price_by_model](https://github.com/Elizabeth632/UK-USED-CAR-LISTING/blob/main/average_price_by_car_manufacturer.png)
 Mercedes has the highest average price at €24.6k followed by C class at €23.7k
